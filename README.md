@@ -1,2 +1,1 @@
-https://sol1ked.github.io/React-Landing/build
-
+https://sol1ked.github.io/React-Landing/build/
